@@ -1,2 +1,3 @@
 # Python
-迷失于Pytho
+大学，有梦，努力，坚持。
+迷失于Python
